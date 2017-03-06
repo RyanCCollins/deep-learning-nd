@@ -11751,6 +11751,15 @@ div#notebook {
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Copyright-Ryan-Collins.--All-rights-reserved.">Copyright <a href="https://github.com/RyanCCollins">Ryan Collins</a>.  All rights reserved.<a class="anchor-link" href="#Copyright-Ryan-Collins.--All-rights-reserved.">&#182;</a></h3>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
 <h1 id="Image-Classification">Image Classification<a class="anchor-link" href="#Image-Classification">&#182;</a></h1><p>In this project, you'll classify images from the <a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR-10 dataset</a>.  The dataset consists of airplanes, dogs, cats, and other objects. You'll preprocess the images, then train a convolutional neural network on all the samples. The images need to be normalized and the labels need to be one-hot encoded.  You'll get to apply what you learned and build a convolutional, max pooling, dropout, and fully connected layers.  At the end, you'll get to see your neural network's predictions on the sample images.</p>
 <h2 id="Get-the-Data">Get the Data<a class="anchor-link" href="#Get-the-Data">&#182;</a></h2><p>Run the following cell to download the <a href="https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz">CIFAR-10 dataset for python</a>.</p>
 
@@ -12605,7 +12614,7 @@ Keep Prob Tests Passed.
     <span class="c1"># Hyper parameters</span>
     <span class="n">conv_num_outputs_layer_1</span> <span class="o">=</span> <span class="mi">64</span>
     <span class="n">conv_ksize_layer_1</span> <span class="o">=</span> <span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
-    <span class="n">conv_strides_layer_1</span> <span class="o">=</span> <span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
+    <span class="n">conv_strides_layer_1</span> <span class="o">=</span> <span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
     <span class="n">pool_ksize_layer_1</span> <span class="o">=</span> <span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
     <span class="n">pool_strides_layer_1</span> <span class="o">=</span> <span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
     
@@ -12617,9 +12626,9 @@ Keep Prob Tests Passed.
     
     <span class="n">conv_num_outputs_layer_3</span> <span class="o">=</span> <span class="mi">64</span>
     <span class="n">conv_ksize_layer_3</span> <span class="o">=</span> <span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
-    <span class="n">conv_strides_layer_3</span> <span class="o">=</span> <span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
+    <span class="n">conv_strides_layer_3</span> <span class="o">=</span> <span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
     <span class="n">pool_ksize_layer_3</span> <span class="o">=</span> <span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
-    <span class="n">pool_strides_layer_3</span> <span class="o">=</span> <span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="mi">3</span><span class="p">)</span>
+    <span class="n">pool_strides_layer_3</span> <span class="o">=</span> <span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">)</span>
     
     <span class="n">fc_layer_1_num_outputs</span> <span class="o">=</span> <span class="mi">512</span>
     <span class="n">fc_layer_2_num_outputs</span> <span class="o">=</span> <span class="mi">256</span>
