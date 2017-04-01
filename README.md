@@ -11,7 +11,7 @@ A simple neural network from scratch to make predictions of bike-sharing usage. 
 ### 2. Object Detection
 ![object-detection](https://cloud.githubusercontent.com/assets/13810084/21964336/eecd121a-db17-11e6-8bdd-59d9f56bb3f4.jpg)
 
-Build a neural network that detects objects from images.
+Build a deep convolutional neural network to detect objects in images.  See here for [the completed project](https://github.com/RyanCCollins/deep-learning/tree/master/project2).
 
 ### 3. Generate TV Scripts
 ![script](https://cloud.githubusercontent.com/assets/13810084/21964337/eecf5f02-db17-11e6-8e9c-e870654472e6.jpg)
