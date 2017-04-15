@@ -1,5 +1,4 @@
 # Deep Learning
-
 This is a repository meant to document my education of Deep Learning.  It includes the 5 projects from the Udacity Deep Learning curriculum.  It demonstrates the ability to train deep neural networks to solve a variety of AI related problems.
 
 ## Projects
