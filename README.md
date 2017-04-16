@@ -1,5 +1,4 @@
 # Deep Learning
-
 This is a repository meant to document my education of Deep Learning.  It includes the 5 projects from the Udacity Deep Learning curriculum.  It demonstrates the ability to train deep neural networks to solve a variety of AI related problems.
 
 ## Projects
@@ -16,7 +15,7 @@ Build a deep convolutional neural network to detect objects in images.  See here
 ### 3. Generate TV Scripts
 ![script](https://cloud.githubusercontent.com/assets/13810084/21964337/eecf5f02-db17-11e6-8e9c-e870654472e6.jpg)
 
-Use deep learning to generate new scripts for your favorite TV show.
+Use deep learning to generate new scripts for your favorite TV show. See here for [the completed project](https://github.com/RyanCCollins/deep-learning/tree/master/project3).
 
 ### 4. Make a Translation Chat Bot
 ![translation](https://cloud.githubusercontent.com/assets/13810084/21964338/eecfb4e8-db17-11e6-91ef-fbc13e22d9cf.jpg)
