@@ -18,7 +18,7 @@ Build a deep convolutional neural network to detect objects in images.  See here
 Use deep learning to generate new scripts for your favorite TV show. See here for [the completed project](https://github.com/RyanCCollins/deep-learning/tree/master/project3).
 
 ### 4. Make a Translation Chat Bot
-![translation](https://cloud.githubusercontent.com/assets/13810084/21964338/eecfb4e8-db17-11e6-91ef-fbc13e22d9cf.jpg)
+![translation](https://cloud.githubusercontent.com/assets/13810084/21964338/eecfb4e8-db17-11e6-91ef-fbc13e22d9cf.jpg) [See here](https://github.com/RyanCCollins/deep-learning/blob/master/project4) for the completed project and [here is the notebook](https://github.com/RyanCCollins/deep-learning/blob/master/project4/dlnd_language_translation.ipynb) with the results.
 
 Build a chatbot that translates text in real time.
 
