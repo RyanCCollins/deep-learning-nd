@@ -23,6 +23,7 @@ Use deep learning to generate new scripts for your favorite TV show.
 
 ### 4. Make a Translation Chat Bot
 ![translation](https://cloud.githubusercontent.com/assets/13810084/21964338/eecfb4e8-db17-11e6-91ef-fbc13e22d9cf.jpg)
+
 Build a chatbot that translates text in real time using a seq2seq RNN model.
 - [Project Files](https://github.com/RyanCCollins/deep-learning/blob/master/project4)
 - [iPython Notebook](https://github.com/RyanCCollins/deep-learning/blob/master/project4/dlnd_language_translation.ipynb)
@@ -32,7 +33,3 @@ Build a chatbot that translates text in real time using a seq2seq RNN model.
 
 Use a generative adversarial network (GAN) to generate novel faces.
 
-# Practice Problems
-On top of the core projects, this repo will also include practice problems covering a range of Machine Learning Algorithms.
-
-1. Linear Regression  
