@@ -7,7 +7,7 @@ To get started, first setup and login to your floyd account.
 
 Next, create a project and get an instance up and running with the following commands.
 ```
-floyd init project4
+floyd init project5
 floyd run --gpu --mode jupyter --env tensorflow-1.0 --data R5KrjnANiKVhLWAkpXhNBe
 ```
 
