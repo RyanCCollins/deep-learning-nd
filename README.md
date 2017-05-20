@@ -35,4 +35,6 @@ Build a chatbot that translates text in real time using a seq2seq RNN model.
 ![generate-faces](https://cloud.githubusercontent.com/assets/13810084/21964335/eecaf28c-db17-11e6-971b-3937b0905486.jpg)
 
 Use a generative adversarial network (GAN) to generate novel faces.
-
+- [README](https://github.com/RyanCCollins/deep-learning/blob/master/project5/README.md)
+- [Project Files](https://github.com/RyanCCollins/deep-learning/blob/master/project5)
+- [iPython Notebook](https://github.com/RyanCCollins/deep-learning/blob/master/project5/dlnd_face_generation.ipynb)
