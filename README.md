@@ -5,7 +5,7 @@ This is a repository meant to document my education of Deep Learning.  It includ
 ### 1. Neural network
 ![neural-net](https://cloud.githubusercontent.com/assets/13810084/21964339/eecfcc62-db17-11e6-9348-90fc5534cf6f.png)
 
-A simple neural network from scratch to make predictions of bike-sharing usage.
+A (simple) neural network from scratch to make predictions of bike-sharing usage.
 - [Project Files](https://github.com/RyanCCollins/deep-learning/blob/master/project1)
 - [iPython Notebook](https://github.com/RyanCCollins/deep-learning/blob/master/project1/neural-network.ipynb)
 
