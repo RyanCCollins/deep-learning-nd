@@ -1,3 +1,6 @@
+# Honor System
+I am leaving this open source on the honor system.  Please do not plagarize my code!  You will only learn by investing the time to work through the problems yourself!  #endrant
+
 # Deep Learning
 This is a repository meant to document my education of Deep Learning.  It includes the 5 projects from the Udacity Deep Learning curriculum.  It demonstrates the ability to train deep neural networks to solve a variety of AI related problems.
 
